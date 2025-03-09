@@ -1,0 +1,19 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 8 13	David
+T2	NOMBRE_SUJETO_ASISTENCIA 26 47	Fernandez de la Torre
+T3	ID_SUJETO_ASISTENCIA 54 61	1526987
+T4	ID_ASEGURAMIENTO 69 83	66 39121543 55
+T5	CALLE 96 129	Plaza de Los Ferroviarios 16, 6 D
+T6	TERRITORIO 153 159	Oviedo
+T7	TERRITORIO 165 170	33003
+T8	FECHAS 214 224	30/07/1962
+T9	PAIS 232 238	España
+T10	EDAD_SUJETO_ASISTENCIA 246 253	53 años
+T11	SEXO_SUJETO_ASISTENCIA 259 260	H
+T12	FECHAS 280 290	09/12/2015
+T13	NOMBRE_PERSONAL_SANITARIO 322 353	Gerardo Armando Latino NºCol:33
+T14	SEXO_SUJETO_ASISTENCIA 381 386	Varón
+T15	EDAD_SUJETO_ASISTENCIA 390 2245	53 años, jubilado, que vive en área rural. Fue diagnosticado hace 10 años de enfermedad inflamatoria intestinal, que se controla únicamente con dosis altas de esteroides. Dos años antes había ingresado en Unidad de Vigilancia Intensiva por sepsis de origen intestinal con fracaso multiorgánico; desde entonces está en hemodiálisis periódica al no haber recuperación funcional. La biopsia renal mostraba nefropatía tubulointersticial.
+T16	HOSPITAL 2271 2334	Hospital Universitario Central de Asturias, Celestino Villamil,
+T17	TERRITORIO 2335 2340	33006
+T18	TERRITORIO 2342 2348	Oviedo
+T19	CORREO_ELECTRONICO 2357 2378	galatinog@hotmail.com

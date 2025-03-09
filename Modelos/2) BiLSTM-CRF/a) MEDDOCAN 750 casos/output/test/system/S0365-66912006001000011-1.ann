@@ -1,0 +1,17 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 36	Patricia
+T2	NOMBRE_SUJETO_ASISTENCIA 50 64	Gonzalez Acuña
+T3	ID_SUJETO_ASISTENCIA 71 78	7834653
+T4	CALLE 91 116	Calle La Cañada, 44 #3453
+T5	TERRITORIO 140 149	Mexico DF
+T6	TERRITORIO 155 160	04030
+T7	PAIS 236 242	México
+T8	FECHAS 284 294	13/11/2011
+T9	NOMBRE_SUJETO_ASISTENCIA 305 321	Patricia Culebro
+T10	SEXO_SUJETO_ASISTENCIA 354 359	Mujer
+T11	EDAD_SUJETO_ASISTENCIA 363 370	46 años
+T12	FECHAS 408 1012	marzo del 2005 por presentar una masa dolorosa en el tercio externo del párpado superior izquierdo de 6 meses de evolución, acompañada de disminución de la agudeza visual (AV) ipsilateral. La paciente refirió el desarrollo de una masa similar 15 años previos a su ingreso, la cual fue manejada exitosamente con tratamiento médico no especificado. El resto de los antecedentes sin importancia para el padecimiento actual.
+T13	PAIS 2811 2817	México
+T14	HOSPITAL 2819 2831	Hospital Dr.
+T15	NOMBRE_PERSONAL_SANITARIO 2832 2902	Luis Sánchez Bulnes Vicente García Torres, 46. Col. San Lucas Coyoacán
+T16	TERRITORIO 2909 2914	04030
+T17	CORREO_ELECTRONICO 2935 2953	pculebro@gmail.com

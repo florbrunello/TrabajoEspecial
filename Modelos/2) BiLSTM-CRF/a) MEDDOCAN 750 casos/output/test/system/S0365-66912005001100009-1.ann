@@ -1,0 +1,20 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 8 14	Emilio
+T2	NOMBRE_SUJETO_ASISTENCIA 27 43	Rodriguez Zapata
+T3	TERRITORIO 50 55	47634
+T4	ID_ASEGURAMIENTO 63 77	43 98563459 07
+T5	CALLE 90 119	Plaza Concepción Arenal 3, 5H
+T6	NOMBRE_SUJETO_ASISTENCIA 144 150	Huesca
+T7	TERRITORIO 156 161	22002
+T8	FECHAS 205 215	10/04/1943
+T9	PAIS 223 229	España
+T10	EDAD_SUJETO_ASISTENCIA 237 244	73 años
+T11	SEXO_SUJETO_ASISTENCIA 251 252	H
+T12	FECHAS 272 282	31/10/2016
+T13	NOMBRE_PERSONAL_SANITARIO 314 335	José María Peña Porta
+T14	ID_TITULACION_PERSONAL_SANITARIO 343 354	22 22 35841
+T15	SEXO_SUJETO_ASISTENCIA 382 387	varón
+T16	EDAD_SUJETO_ASISTENCIA 391 1515	73 años diagnosticado de GCCA avanzado fue remitido a nuestro centro. Se le habían realizado dos trabeculectomías que habían fracasado precozmente. Dado el estadío del glaucoma y la existencia de una catarata nuclear se decidió realizar un procedimiento combinado de facoemulsificación e implante valvular. A las 24 horas de la cirugía, la presión intraocular fue de 48 mmHg y la cámara anterior se encontraba aplanada con contacto iridoendotelial periférico. Las iridectomías se observaban permeables, descartándose la posibilidad de un bloqueo pupilar. La exploración del fondo de ojo y la ecografía resultaron normales, por lo que se diagnosticó glaucoma maligno. Se realizó una capsulotomía e hialoidotomía con láser de Nd-YAG a través de la pupila, observándose una leve profundización de la cámara anterior al perforar la hialoides anterior, que fue aumentando progresivamente en las siguientes horas. A las tres horas del tratamiento, la presión intraocular era de 14 mmHg y había desaparecido el contacto iridoendotelial. Al año de la cirugía la presión intraocular (PIO) se encontraba en 16 mmHg con brinzolamida 0,
+T17	TERRITORIO 1566 1575	Barcelona
+T18	NOMBRE_PERSONAL_SANITARIO 1595 1616	José María Peña Porta
+T19	HOSPITAL 1639 1650	Hospital de
+T20	CORREO_ELECTRONICO 1681 1702	pporta@hispavista.com

@@ -1,0 +1,25 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 35	Liliana
+T2	NOMBRE_SUJETO_ASISTENCIA 48 62	Padilla Sotelo
+T3	ID_SUJETO_ASISTENCIA 69 76	7834683
+T4	CALLE 89 114	C/ de Roberto de Agustina
+T5	TERRITORIO 138 144	Madrid
+T6	TERRITORIO 150 155	28703
+T7	FECHAS 199 209	17/07/2004
+T8	PAIS 231 237	España
+T9	EDAD_SUJETO_ASISTENCIA 245 252	10 años
+T10	SEXO_SUJETO_ASISTENCIA 259 260	M
+T11	FECHAS 280 290	20/10/2014
+T12	ID_SUJETO_ASISTENCIA 326 334	79845698
+T13	NOMBRE_PERSONAL_SANITARIO 344 366	Ángela Muñoz Hernández
+T14	SEXO_SUJETO_ASISTENCIA 446 450	niña
+T15	EDAD_SUJETO_ASISTENCIA 454 1062	10 años que fue derivada desde otro centro por baja visión sin causa orgánica aparente. La paciente presentaba un informe donde constaba una agudeza visual de 0,01 en ambos ojos con una refracción bajo cicloplejia de + 1,00. Todas las exploraciones oftalmológicas fueron normales. En las pruebas complementarias presentadas potenciales evocados visuales (PEV), electrorretinograma (ERG), angiofluoresceingrafía (AFG), tomografía axial computerizada (TAC), resonancia magnética (RM) tampoco se encontró ninguna alteración. Ante la sospecha de simulación, ahondamos en la situación familiar, escolar y social d
+T16	FAMILIARES_SUJETO_ASISTENCIA 1103 1111	4 herman
+T17	FAMILIARES_SUJETO_ASISTENCIA 1677 1690	los padres  T
+T18	SEXO_SUJETO_ASISTENCIA 1546 1550	lar 
+T19	NOMBRE_PERSONAL_SANITARIO 1866 1878	Ángela Muñoz
+T20	HOSPITAL 1890 1926	Hospital Universitario Infanta Sofía
+T21	CALLE 1929 1948	Paseo de Europa, 34
+T22	TERRITORIO 1950 1955	28703
+T23	TERRITORIO 1956 1982	San Sebastián de los Reyes
+T24	TERRITORIO 1984 1990	Madrid
+T25	CORREO_ELECTRONICO 2012 2037	anhumahe@salud.madrid.org

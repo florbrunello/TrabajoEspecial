@@ -1,0 +1,23 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 33	Juana
+T2	NOMBRE_SUJETO_ASISTENCIA 46 60	Martinez Ramos
+T3	ID_SUJETO_ASISTENCIA 67 74	4986734
+T4	ID_ASEGURAMIENTO 82 96	32 75643095 06
+T5	CALLE 109 127	C/ Verona, 16, 1 D
+T6	TERRITORIO 151 157	Tudela
+T7	TERRITORIO 163 168	31512
+T8	FECHAS 212 222	24/06/1960
+T9	PAIS 230 236	España
+T10	EDAD_SUJETO_ASISTENCIA 244 251	57 años
+T11	SEXO_SUJETO_ASISTENCIA 258 259	M
+T12	FECHAS 279 289	22/12/2017
+T13	NOMBRE_PERSONAL_SANITARIO 326 344	Aida Rico Arrastia
+T14	ID_TITULACION_PERSONAL_SANITARIO 352 363	31 31 52103
+T15	SEXO_SUJETO_ASISTENCIA 404 409	mujer
+T16	EDAD_SUJETO_ASISTENCIA 413 1318	57 años, sin antecedentes médicos de interés, exfumadora desde hace 15 años, remitida de la Unidad de Detección Precoz de Cáncer de Mama por un nódulo de 3,5 cm en cuadrante infero-interno de mama izquierda, sin adenopatías axilares palpables. Se diagnostica mediante estudio con biopsia, RNM y ecografía axilar de carcinoma ductal infiltrante de mama izquierda con afectación axilar.
+T17	FECHAS 1498 1500	1/
+T18	NOMBRE_PERSONAL_SANITARIO 2512 2521	Aida Rico
+T19	HOSPITAL 2558 2578	Hospital Reina Sofía
+T20	CALLE 2579 2600	Ctra. Tarazona, km. 3
+T21	TERRITORIO 2601 2606	31500
+T22	TERRITORIO 2607 2613	Tudela
+T23	CORREO_ELECTRONICO 2622 2653	aida.rico.arrastia@cfnavarra.es

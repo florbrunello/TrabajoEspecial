@@ -1,0 +1,25 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 35	Ricardo
+T2	NOMBRE_SUJETO_ASISTENCIA 49 65	Gonzalez Navarro
+T3	ID_SUJETO_ASISTENCIA 72 79	4564903
+T4	ID_ASEGURAMIENTO 87 101	43 17856301 65
+T5	CALLE 114 135	C/ Topolinos, 14, 5 C
+T6	TERRITORIO 159 165	Getafe
+T7	TERRITORIO 171 176	28905
+T8	FECHAS 220 230	04/11/1949
+T9	PAIS 252 258	España
+T10	EDAD_SUJETO_ASISTENCIA 266 273	65 años
+T11	SEXO_SUJETO_ASISTENCIA 280 281	H
+T12	FECHAS 301 311	27/10/2015
+T13	NOMBRE_PERSONAL_SANITARIO 321 348	Guadalupe Guijarro de Armas
+T14	ID_TITULACION_PERSONAL_SANITARIO 356 367	28 28 45702
+T15	EDAD_SUJETO_ASISTENCIA 412 419	65 años
+T16	FECHAS 514 524	Enero 2008
+T17	FECHAS 785 799	Noviembre 2008
+T18	FAMILIARES_SUJETO_ASISTENCIA 1078 1088	Enero 2009
+T19	FECHAS 1706 5102	Julio de 2009 acude de nuevo a urgencias por empeoramiento de su estado general, con astenia importante, postración, dificultad para la deambulación y oliguria. En analítica realizada en urgencias se observa: Creatinina: 4 mg/dl (LN 0,6-1,40); Sodio: 113 meq (LN 135-145), Potasio: 6,7 mEq/l (LN 3,5-5), Albúmina: 3,1 g/dl (LN 3,4-4); Calcio plasmático: 6.7 mg/dl (LN 8,5-10,5); Calcio corregido con albúmina: 7,4 mg/dl; Magnesio: 0.5 mg/dl (LN 1,7-2,5); Fosfato: 2,8 mg/dl (LN 2,5-4,5); pH venoso:7.17 (LN 7,33-7,43); Bicarbonato: 18 mmol/l (LN 22-28); El paciente fue ingresado en Medicina Interna por insuficiencia renal aguda con acidosis metabólica hiperlactacidémica y alteraciones electrolíticas secundarias a pérdidas por ileostomía y tratamiento diurético. Tras varios días de rehidratación parenteral es dado de alta. Entonces, se suspende el diurético y se inicia tratamiento con Sales de rehidratación oral, Loperamida (2 mg/8 horas) y sales de Magnesio (Lactato Magnésico: 500 mg por comprimido = 2 mmol = 4 meq de Mg elemento) a dosis de 8 meq/8 horas/vo).
+T20	HOSPITAL 5956 5991	Hospital de Getafe Carretera Toledo
+T21	TERRITORIO 5992 5997	28905
+T22	TERRITORIO 5998 6004	Getafe
+T23	TERRITORIO 6006 6012	Madrid
+T24	PAIS 6015 6021	España
+T25	CORREO_ELECTRONICO 6030 6050	docguada@hotmail.com

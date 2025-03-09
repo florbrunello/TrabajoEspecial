@@ -1,0 +1,18 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 9 15	Gerard
+T2	NOMBRE_SUJETO_ASISTENCIA 28 44	Pichardo Vazquez
+T3	ID_SUJETO_ASISTENCIA 51 58	3524454
+T4	ID_ASEGURAMIENTO 66 80	24 56242452 65
+T5	CALLE 93 118	Carrer de Nàpols, 231, 3D
+T6	TERRITORIO 143 152	Barcelona
+T7	TERRITORIO 158 163	08013
+T8	FECHAS 207 217	23/10/1973
+T9	PAIS 225 231	España
+T10	EDAD_SUJETO_ASISTENCIA 239 246	44 años
+T11	SEXO_SUJETO_ASISTENCIA 253 254	H
+T12	FECHAS 274 284	25/05/2018
+T13	NOMBRE_PERSONAL_SANITARIO 294 316	Sonia Junquera Bañares
+T14	ID_TITULACION_PERSONAL_SANITARIO 324 336	08 08  53412
+T15	SEXO_SUJETO_ASISTENCIA 368 373	Varón
+T16	EDAD_SUJETO_ASISTENCIA 377 2367	44 años, que acude al servicio de Urgencias por fiebre de seis horas de evolución y malestar general. Como antecedentes de interés cabe destacar enfermedad de Graves-Basedow en tratamiento con carbimazol 30 mg/día desde hacía 6 semanas y la extracción del tercer molar inferior hacía cuatro días. En la exploración física se objetiva Ta 39,5oC, TA 122/71 y FC 137 l/min. Se palpa bocio grado 1a. En la boca se observan caries en varias piezas dentarias y enrojecimiento en la zona de extracción dentaria, siendo el resto de la exploración anodina. En el análisis de sangre se observan 500 leucocitos/mm3 (0% neutrófilos) con el resto de series normal, PCR 321 mg/dL, función tiroidea normalizada y sin otros datos de interés. Se toman muestra de orina, esputo y sangre para estudio microbiológico y se comienza con tratamiento antibiótico de amplio espectro (amikacina 20 mg/Kg/día y cefepime 2 g/8 horas). En el estudio de médula ósea que se hizo al día siguiente se detectó hipercelularidad con parada madurativa en serie mieloide, sin otros datos de interés, de probable etiología farmacológica, motivo por el que se suspendió el carbimazol y se comenzó tratamiento con G-CSF 5 µ/kg/d. Los tres días primeros del ingreso, el paciente tuvo dos episodios de fiebre de 39oC, por lo que al cuarto día se cambió el tratamiento antibiótico previo por meropenem 1 g/8 horas y se añadió fluconazol 400 mg/día, al tiempo que se realizó ecocardiograma transesofágico que descartó la presencias de endocarditis. Al quinto día desapareció la fiebre, coincidiendo con la recuperación parcial de la cifra de neutrófilos a 1.800/mm3, y al séptimo día se dio de alta por evolución favorable y resolución del cuadro.
+T17	NOMBRE_PERSONAL_SANITARIO 3199 3221	Sonia Junquera Bañares
+T18	CORREO_ELECTRONICO 3230 3248	sojuba@hotmail.com
