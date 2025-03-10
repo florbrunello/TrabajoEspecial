@@ -5,6 +5,7 @@ git clone "https://github.com/PlanTL-GOB-ES/SPACCC_MEDDOCAN.git" .
 cd ..
 
 2. Descomprimir y reestructurar los datos de entrenamiento:
+[Añadir el dataset correspondiente]
 cd models/BiLSTM-CRF
 unzip data.zip
 mv data/train .
@@ -13,7 +14,7 @@ mkdir output
 mv data/test output
 
 3. Crear el entorno virtual:
-python3 -m venv .env
+python3.7 -m venv .env
 source .env/bin/activate
 
 4. Instalar las dependencias:
@@ -31,6 +32,7 @@ sed -i "s/spacy.load('es')/spacy.load('es_core_news_sm')/g" preprocessing.py
 python3 ../../../requirements.py
 
 8. Preprocesar los datos:
+[Eliminar los anteriores]
 python3 preprocessing.py --dataDir ../train/gold --train
 python3 preprocessing.py --dataDir ../dev/gold --dev
 python3 preprocessing.py --dataDir ../output/test/gold --test
@@ -40,10 +42,11 @@ cd Extension2
 wget -O wiki.es.vec https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.es.vec
 
 10. Genera los archivos necesarios por el modelo neuronal:
+[Eliminar los anteriores]
 python3 create_vocabs.py --trainpickle ../train_word_ner_startidx_dict.pickle --devpickle ../dev_word_ner_startidx_dict.pickle --testpickle ../test_word_ner_startidx_dict.pickle --embfile wiki.es.vec --vocabEmbFile vocab_embeddings.npz
 
 11. Crear directorios para guardar el modelo y los confusion plots:
-mkdir models
+mkdir Model
 mkdir plots
 cd Code
 
