@@ -56,5 +56,3 @@ python3 train.py
 13. Evaluar el modelo con los datos del MEDDOCAN:
 cd ../..
 python3 evaluate.py brat ner ../output/test/gold ../output/test/system
-
-Del tipo IDENTF_BIOMETRICOS hay 0 en MEDDOCAN -> que hacer ? 
